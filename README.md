@@ -1,6 +1,6 @@
 # superstore dataset EDA and KMeans Analysis
 
-![image](https://github.com/RaynaLin/superstore_EDA/blob/4acf1b3819a01f9a505467d03a4bc85721293b0f/powerbi_img.png/powerbi_img.png)
+![image](https://github.com/RaynaLin/superstore_EDA/blob/4acf1b3819a01f9a505467d03a4bc85721293b0f/powerbi_img.png)
 
 ## About Data
 With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
